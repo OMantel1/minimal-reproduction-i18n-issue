@@ -1,7 +1,7 @@
 # steps for issue
 git checkout develop
-yarn
-yarn dev
+&&  yarn
+&& yarn dev
 
 error => "Cannot restart nuxt:  program.body is not iterable " (scanProgram)
 
