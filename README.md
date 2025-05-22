@@ -1,3 +1,10 @@
+# steps for issue
+git checkout develop
+yarn
+yarn dev
+
+error => "Cannot restart nuxt:  program.body is not iterable " (scanProgram)
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
